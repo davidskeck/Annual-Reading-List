@@ -15,8 +15,6 @@ Articles
 Why?
 ====
 
-This idea was inspired by this quote.
-
 #### "As a single footstep will not make a path on the earth, so a single thought will not make a pathway in the mind. To make a deep physical path, we walk again and again. To make a deep mental path, we must think over and over the kind of thoughts we wish to dominate our lives." - Henry David Thoreau
 
 I feel like a lot of people read important ideas once and never get the chance to implement them.
