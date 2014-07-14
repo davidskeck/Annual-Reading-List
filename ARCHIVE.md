@@ -7,4 +7,4 @@ Nothing yet.
 
 Articles
 ========
-Nothing yet.
+* [Taming the mammoth - Tim Urban](http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
