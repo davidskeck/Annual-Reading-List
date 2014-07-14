@@ -5,12 +5,15 @@ This is a list of books or articles that I plan to read every year. It will be r
 
 Books
 =====
-* ### [Anything You Want - Derek Sivers](https://www.goodreads.com/book/show/11878168-anything-you-want)
+* [Anything You Want - Derek Sivers](https://www.goodreads.com/book/show/11878168-anything-you-want)
 
 
 Articles
 ========
-* ### [Masters of Love - Emily Esfahani Smith](http://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/)
+* [Masters of Love - Emily Esfahani Smith](http://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/)
+* [The Fight - Dustin Curtis](http://dcurt.is/the-fight)
+* [Why Five Days in the Office Is Too Many - Prerna Gupta](http://www.nytimes.com/2013/03/03/jobs/in-defense-of-working-mostly-from-home.html)
+* [The Slow Death of Purposeless Walking - Finlo Rohrer](http://www.bbc.com/news/magazine-27186709)
 
 Why?
 ====
