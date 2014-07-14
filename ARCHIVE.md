@@ -1,4 +1,10 @@
 Annual Reading List - Archive
 =============================
 
-Nothing here yet!
+Books
+=====
+Nothing yet.
+
+Articles
+========
+Nothing yet.
