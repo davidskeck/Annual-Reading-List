@@ -1,7 +1,7 @@
 Annual Reading List
 ===================
 
-This is a list of books or articles that I plan to read every year. It will be revolving, meaning titles will be switched out as they become stale to me. I plan to have about 5-10 total items on this list at a time, with an archive of previously listed works.
+This is a list of books or articles that I plan to read every year. Titles will be switched out as they become stale to me. There will be 10 items on this list at a time, with an archive of previously listed works.
 
 Books
 =====
@@ -14,6 +14,7 @@ Articles
 * [The Fight - Dustin Curtis](http://dcurt.is/the-fight)
 * [Why Five Days in the Office Is Too Many - Prerna Gupta](http://www.nytimes.com/2013/03/03/jobs/in-defense-of-working-mostly-from-home.html)
 * [The Slow Death of Purposeless Walking - Finlo Rohrer](http://www.bbc.com/news/magazine-27186709)
+* []
 
 Why?
 ====
