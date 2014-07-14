@@ -5,12 +5,12 @@ This is a list of books or articles that I plan to read every year. It will be r
 
 Books
 =====
-* [Anything You Want - Derek Sivers](https://www.goodreads.com/book/show/11878168-anything-you-want)
+* ### [Anything You Want - Derek Sivers](https://www.goodreads.com/book/show/11878168-anything-you-want)
 
 
 Articles
 ========
-* [Masters of Love - Emily Esfahani Smith](http://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/)
+* ### [Masters of Love - Emily Esfahani Smith](http://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/)
 
 Why?
 ====
