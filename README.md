@@ -14,7 +14,6 @@ Articles
 * [The fight - Dustin Curtis](http://dcurt.is/the-fight)
 * [Why five days in the office is too many - Prerna Gupta](http://www.nytimes.com/2013/03/03/jobs/in-defense-of-working-mostly-from-home.html)
 * [The slow death of purposeless walking - Finlo Rohrer](http://www.bbc.com/news/magazine-27186709)
-* [Taming the mammoth - Tim Urban](http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
 
 Why?
 ====
