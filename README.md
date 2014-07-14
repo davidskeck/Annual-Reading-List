@@ -25,6 +25,10 @@ The purpose of this list is that ideas that are important to me get the chance t
 in my mind. By reading these works annually, I will be introduced to these ideas again
 and again until they become habitual to me.
 
+Join me
+=======
+<a target="_blank" href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=XzZ0MTMyZDFwODhvNDZiOWw2Y3MzY2I5azY0cmppYmExNjExM2FiOXA4NG9rNGNpNTg5MWtjaDlpODRfMjAxNTAxMDFUMjAwMDAwWiBkc3RldmVua2Vja0Bt&tmsrc=dstevenkeck%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+
 Suggestions?
 ============
 [Email me](mailto:david@keck.net?subject=Annual Reading List suggestions) or
