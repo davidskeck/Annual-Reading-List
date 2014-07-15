@@ -13,7 +13,7 @@ Articles
 * [Masters of love - Emily Esfahani Smith](http://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/)
 * [Why five days in the office is too many - Prerna Gupta](http://www.nytimes.com/2013/03/03/jobs/in-defense-of-working-mostly-from-home.html)
 * [The slow death of purposeless walking - Finlo Rohrer](http://www.bbc.com/news/magazine-27186709)
-* [A long, wet walk in Wales - Dominique Browning](m/2013/05/26/travel/slow-travel-walking-in-wales.html)
+* [A long, wet walk in Wales - Dominique Browning](http://www.nytimes.com/2013/05/26/travel/slow-travel-walking-in-wales.html)
 * [I do not fear death - Roger Ebert](http://www.salon.com/2011/09/15/roger_ebert/)
 
 Why?
