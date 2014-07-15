@@ -1,7 +1,7 @@
 Annual Reading List
 ===================
 
-This is a list of books and articles to read every year. Titles will be switched out as they become stale to me. There will be up to 10 items on this list at a time, with an archive of previously listed works.
+This is a list of books and articles to read every year. Titles will be switched out as they become stale to me. There will be up to 10 items on this list at a time. Previously listed works are [archived](/ARCHIVE.md).
 
 Books
 =====
