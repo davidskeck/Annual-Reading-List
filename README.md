@@ -7,6 +7,8 @@ Books
 =====
 * [Anything You Want - Derek Sivers](https://www.goodreads.com/book/show/11878168-anything-you-want)
 * [Self-Reliance - Ralph Waldo Emerson](https://www.goodreads.com/book/show/123845.Self_Reliance_and_Other_Essays)
+* [Apprenticeship Patterns - Dave Hoover](https://www.goodreads.com/book/show/5608045-apprenticeship-patterns)
+* [Don't Sweat the Small Stuff - Richard Carlson](https://www.goodreads.com/book/show/170548.Don_t_Sweat_the_Small_Stuff_and_it_s_all_small_stuff)
 
 
 Articles
