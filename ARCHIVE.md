@@ -3,7 +3,8 @@ Annual Reading List - Archive
 
 Books
 =====
-Nothing yet.
+* [Self-Reliance - Ralph Waldo Emerson](https://www.goodreads.com/book/show/123845.Self_Reliance_and_Other_Essays)
+* [Apprenticeship Patterns - Dave Hoover](https://www.goodreads.com/book/show/5608045-apprenticeship-patterns)
 
 Articles
 ========
