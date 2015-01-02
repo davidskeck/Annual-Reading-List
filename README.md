@@ -5,7 +5,7 @@ This is a list of books and articles to read every year. Titles will be switched
 
 Books
 =====
-* [Anything You Want - Derek Sivers](http://sivers.org/a)
+* [Anything You Want - Derek Sivers](http://sivers.org/a) []
 * [The Icarus Deception - Seth Godin](http://www.sethgodin.com/sg/books.asp)
 * [Don't Sweat the Small Stuff - Richard Carlson](http://dontsweat.com)
 
