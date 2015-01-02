@@ -5,18 +5,18 @@ This is a list of books and articles to read every year. Titles will be switched
 
 Books
 =====
-* - [ ] [Anything You Want - Derek Sivers](http://sivers.org/a)
-* - [ ] [The Icarus Deception - Seth Godin](http://www.sethgodin.com/sg/books.asp)
-* - [ ] [Don't Sweat the Small Stuff - Richard Carlson](http://dontsweat.com)
+- [ ] [Anything You Want - Derek Sivers](http://sivers.org/a)
+- [ ] [The Icarus Deception - Seth Godin](http://www.sethgodin.com/sg/books.asp)
+- [ ] [Don't Sweat the Small Stuff - Richard Carlson](http://dontsweat.com)
 
 
 Articles
 ========
-* - [ ] [Masters of love - Emily Esfahani Smith](http://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/)
-* - [ ] [The slow death of purposeless walking - Finlo Rohrer](http://www.bbc.com/news/magazine-27186709)
-* - [ ] [A long, wet walk in Wales - Dominique Browning](http://www.nytimes.com/2013/05/26/travel/slow-travel-walking-in-wales.html)
-* - [ ] [I do not fear death - Roger Ebert](http://www.salon.com/2011/09/15/roger_ebert/)
-* - [ ] [Showdown at the airport body scanner - Nathaniel Rich](http://opinionator.blogs.nytimes.com/2013/05/25/showdown-at-the-airport-body-scanner/?_r=0)
+- [ ] [Masters of love - Emily Esfahani Smith](http://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/)
+- [ ] [The slow death of purposeless walking - Finlo Rohrer](http://www.bbc.com/news/magazine-27186709)
+- [ ] [A long, wet walk in Wales - Dominique Browning](http://www.nytimes.com/2013/05/26/travel/slow-travel-walking-in-wales.html)
+- [ ] [I do not fear death - Roger Ebert](http://www.salon.com/2011/09/15/roger_ebert/)
+- [ ] [Showdown at the airport body scanner - Nathaniel Rich](http://opinionator.blogs.nytimes.com/2013/05/25/showdown-at-the-airport-body-scanner/?_r=0)
 
 > "Airplane travel is disquieting, as is dealing with peevish federal officers, as is life. Even the slightest gesture of assertiveness can create the pleasing illusion that you control your fate."
 
