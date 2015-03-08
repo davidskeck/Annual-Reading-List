@@ -12,6 +12,7 @@ Books
 
 Articles
 ========
+- [ ] [Your lifestyle has already been designed - David Cain](http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
 - [ ] [Masters of love - Emily Esfahani Smith](http://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/)
 - [ ] [The slow death of purposeless walking - Finlo Rohrer](http://www.bbc.com/news/magazine-27186709)
 - [ ] [A long, wet walk in Wales - Dominique Browning](http://www.nytimes.com/2013/05/26/travel/slow-travel-walking-in-wales.html)
