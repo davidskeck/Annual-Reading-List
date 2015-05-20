@@ -16,6 +16,7 @@ Books
 Articles
 ========
 - [x] [Your lifestyle has already been designed - David Cain](http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
+
 > "But the 8-hour workday is too profitable for big business, not because of the amount of work people get done in eight hours (the average office worker gets less than three hours of actual work done in 8 hours) but because it makes for such a purchase-happy public. Keeping free time scarce means people pay a lot more for convenience, gratification, and any other relief they can buy. It keeps them watching television, and its commercials. It keeps them unambitious outside of work."
 - [ ] [Masters of love - Emily Esfahani Smith](http://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/)
 - [ ] [The slow death of purposeless walking - Finlo Rohrer](http://www.bbc.com/news/magazine-27186709)
