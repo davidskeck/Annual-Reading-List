@@ -7,7 +7,7 @@ Books
 =====
 - [ ] [Anything You Want - Derek Sivers](http://sivers.org/a)
 - [ ] [The Icarus Deception - Seth Godin](http://www.sethgodin.com/sg/books.asp)
-- [ x ] [Wild - Cheryl Strayed](http://www.cherylstrayed.com/wild_108676.htm)
+- [x] [Wild - Cheryl Strayed](http://www.cherylstrayed.com/wild_108676.htm)
 - [ ] [Don't Sweat the Small Stuff - Richard Carlson](http://dontsweat.com)
 
 
