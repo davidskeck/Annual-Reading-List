@@ -3,7 +3,7 @@ Annual Reading List
 
 This is a list of books and articles to read every year. Titles will be switched out as they become stale to me. There will be up to 10 items on this list at a time. Previously listed works are [archived](/ARCHIVE.md).
 
-- [x] = Has been read this year.
+- [x] - has been read this year.
 
 Books
 =====
@@ -22,8 +22,8 @@ Articles
 - [ ] [I do not fear death - Roger Ebert](http://www.salon.com/2011/09/15/roger_ebert/)
 - [x] [Showdown at the airport body scanner - Nathaniel Rich](http://opinionator.blogs.nytimes.com/2013/05/25/showdown-at-the-airport-body-scanner/?_r=0)
 
-> "Airplane travel is disquieting, as is dealing with peevish federal officers, as is life. Even the slightest gesture of assertiveness can create the pleasing illusion that you control your fate." ...
-> "I am offered the option of enduring my rubdown in private. I always refuse: Civil disobedience is worth nothing if it’s not done in public."
+> "I am offered the option of enduring my rubdown in private. I always refuse: Civil disobedience is worth nothing if it’s not done in public." ...
+> "Airplane travel is disquieting, as is dealing with peevish federal officers, as is life. Even the slightest gesture of assertiveness can create the pleasing illusion that you control your fate."
 
 Why?
 ====
