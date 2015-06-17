@@ -21,7 +21,7 @@ Articles
 
 - [ ] [Masters of love - Emily Esfahani Smith](http://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/)
 - [ ] [The slow death of purposeless walking - Finlo Rohrer](http://www.bbc.com/news/magazine-27186709)
-- [ ] [A long, wet walk in Wales - Dominique Browning](http://www.nytimes.com/2013/05/26/travel/slow-travel-walking-in-wales.html)
+- [x] [You Are Free, Like it or Not - David Cain](http://www.raptitude.com/2015/06/you-are-free-like-it-or-not/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Raptitudecom+%28Raptitude.com%29)
 - [ ] [I do not fear death - Roger Ebert](http://www.salon.com/2011/09/15/roger_ebert/)
 - [x] [Showdown at the airport body scanner - Nathaniel Rich](http://opinionator.blogs.nytimes.com/2013/05/25/showdown-at-the-airport-body-scanner/?_r=0)
 
