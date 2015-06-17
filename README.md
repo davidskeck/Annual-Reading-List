@@ -25,7 +25,7 @@ Articles
 
 > "In every instant, we are free to behave however we like, but we often act as though circumstances have reduced our options down to one or two ways to move forward. 
 
-This is bad faith: when we convince ourselves that we’re less free than we really are, so that we don’t have to feel responsible for what we ultimately make of ourselves. It really seems like you must get up at 7:00 every Monday, because constraints such as your job, your family’s schedule, and your body’s needs leave no other possibility. But it’s not true — you can set your alarm for any time, and are free to explore what’s different about life when you do."
+> This is bad faith: when we convince ourselves that we’re less free than we really are, so that we don’t have to feel responsible for what we ultimately make of ourselves. It really seems like you must get up at 7:00 every Monday, because constraints such as your job, your family’s schedule, and your body’s needs leave no other possibility. But it’s not true — you can set your alarm for any time, and are free to explore what’s different about life when you do."
 
 - [ ] [I do not fear death - Roger Ebert](http://www.salon.com/2011/09/15/roger_ebert/)
 - [x] [Showdown at the airport body scanner - Nathaniel Rich](http://opinionator.blogs.nytimes.com/2013/05/25/showdown-at-the-airport-body-scanner/?_r=0)
