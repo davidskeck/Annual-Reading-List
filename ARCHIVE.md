@@ -8,6 +8,7 @@ Books
 
 Articles
 ========
+- [ ] [A long, wet walk in Wales - Dominique Browning](http://www.nytimes.com/2013/05/26/travel/slow-travel-walking-in-wales.html)
 * [Taming the mammoth - Tim Urban](http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
 * [The fight - Dustin Curtis](http://dcurt.is/the-fight)
 * [It's February. The Tuesday of the year. - Francis Pedraza](https://medium.com/@francispedraza/its-february-the-tuesday-of-the-year-710642eac8a2)
