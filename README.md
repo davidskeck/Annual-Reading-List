@@ -21,9 +21,9 @@ Articles
 
 - [x] [Masters of love - Emily Esfahani Smith](http://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/)
 
-> "Throughout the day, partners would make requests for connection, what Gottman calls “bids.” For example, say that the husband is a bird enthusiast and notices a goldfinch fly across the yard. He might say to his wife, “Look at that beautiful bird outside!” He’s not just commenting on the bird here: he’s requesting a response from his wife—a sign of interest or support—hoping they’ll connect, however momentarily, over the bird."
+> "Throughout the day, partners would make requests for connection, what Gottman calls “bids.” For example, say that the husband is a bird enthusiast and notices a goldfinch fly across the yard. He might say to his wife, “Look at that beautiful bird outside!” He’s not just commenting on the bird here: he’s requesting a response from his wife—a sign of interest or support—hoping they’ll connect, however momentarily, over the bird.
 
-> "The wife now has a choice. She can respond by either “turning toward” or “turning away” from her husband, as Gottman puts it. Though the bird-bid might seem minor and silly, it can actually reveal a lot about the health of the relationship. The husband thought the bird was important enough to bring it up in conversation and the question is whether his wife recognizes and respects that."
+> The wife now has a choice. She can respond by either “turning toward” or “turning away” from her husband, as Gottman puts it. Though the bird-bid might seem minor and silly, it can actually reveal a lot about the health of the relationship. The husband thought the bird was important enough to bring it up in conversation and the question is whether his wife recognizes and respects that."
 
 - [x] [You Are Free, Like it or Not - David Cain](http://www.raptitude.com/2015/06/you-are-free-like-it-or-not/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Raptitudecom+%28Raptitude.com%29)
 
@@ -33,7 +33,7 @@ Articles
 
 - [x] [I do not fear death - Roger Ebert](http://www.salon.com/2011/09/15/roger_ebert/)
 
-> "That does a pretty good job of summing it up. “Kindness” covers all of my political beliefs. No need to spell them out. I believe that if, at the end, according to our abilities, we have done something to make others a little happier, and something to make ourselves a little happier, that is about the best we can do. To make others less happy is a crime. To make ourselves unhappy is where all crime starts. We must try to contribute joy to the world. That is true no matter what our problems, our health, our circumstances. We must try. I didn’t always know this and am happy I lived long enough to find it out."
+> "... "Kindness” covers all of my political beliefs. No need to spell them out. I believe that if, at the end, according to our abilities, we have done something to make others a little happier, and something to make ourselves a little happier, that is about the best we can do. To make others less happy is a crime. To make ourselves unhappy is where all crime starts. We must try to contribute joy to the world. That is true no matter what our problems, our health, our circumstances. We must try. I didn’t always know this and am happy I lived long enough to find it out."
 
 - [x] [Showdown at the airport body scanner - Nathaniel Rich](http://opinionator.blogs.nytimes.com/2013/05/25/showdown-at-the-airport-body-scanner/?_r=0)
 
