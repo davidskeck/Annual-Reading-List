@@ -19,15 +19,22 @@ Articles
 
 > "But the 8-hour workday is too profitable for big business, not because of the amount of work people get done in eight hours (the average office worker gets less than three hours of actual work done in 8 hours) but because it makes for such a purchase-happy public. Keeping free time scarce means people pay a lot more for convenience, gratification, and any other relief they can buy. It keeps them watching television, and its commercials. It keeps them unambitious outside of work."
 
-- [ ] [Masters of love - Emily Esfahani Smith](http://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/)
-- [ ] [The slow death of purposeless walking - Finlo Rohrer](http://www.bbc.com/news/magazine-27186709)
+- [x] [Masters of love - Emily Esfahani Smith](http://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/)
+
+> "Throughout the day, partners would make requests for connection, what Gottman calls “bids.” For example, say that the husband is a bird enthusiast and notices a goldfinch fly across the yard. He might say to his wife, “Look at that beautiful bird outside!” He’s not just commenting on the bird here: he’s requesting a response from his wife—a sign of interest or support—hoping they’ll connect, however momentarily, over the bird."
+
+> "The wife now has a choice. She can respond by either “turning toward” or “turning away” from her husband, as Gottman puts it. Though the bird-bid might seem minor and silly, it can actually reveal a lot about the health of the relationship. The husband thought the bird was important enough to bring it up in conversation and the question is whether his wife recognizes and respects that."
+
 - [x] [You Are Free, Like it or Not - David Cain](http://www.raptitude.com/2015/06/you-are-free-like-it-or-not/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Raptitudecom+%28Raptitude.com%29)
 
 > "In every instant, we are free to behave however we like, but we often act as though circumstances have reduced our options down to one or two ways to move forward. 
 
 > This is bad faith: when we convince ourselves that we’re less free than we really are, so that we don’t have to feel responsible for what we ultimately make of ourselves. It really seems like you must get up at 7:00 every Monday, because constraints such as your job, your family’s schedule, and your body’s needs leave no other possibility. But it’s not true — you can set your alarm for any time, and are free to explore what’s different about life when you do."
 
-- [ ] [I do not fear death - Roger Ebert](http://www.salon.com/2011/09/15/roger_ebert/)
+- [x] [I do not fear death - Roger Ebert](http://www.salon.com/2011/09/15/roger_ebert/)
+
+> "That does a pretty good job of summing it up. “Kindness” covers all of my political beliefs. No need to spell them out. I believe that if, at the end, according to our abilities, we have done something to make others a little happier, and something to make ourselves a little happier, that is about the best we can do. To make others less happy is a crime. To make ourselves unhappy is where all crime starts. We must try to contribute joy to the world. That is true no matter what our problems, our health, our circumstances. We must try. I didn’t always know this and am happy I lived long enough to find it out."
+
 - [x] [Showdown at the airport body scanner - Nathaniel Rich](http://opinionator.blogs.nytimes.com/2013/05/25/showdown-at-the-airport-body-scanner/?_r=0)
 
 > "I am offered the option of enduring my rubdown in private. I always refuse: Civil disobedience is worth nothing if it’s not done in public." ...
