@@ -5,6 +5,7 @@ Books
 =====
 * [Self-Reliance - Ralph Waldo Emerson](http://www.emersoncentral.com/selfreliance.htm)
 * [Apprenticeship Patterns - Dave Hoover](http://chimera.labs.oreilly.com/books/1234000001813/index.html)
+* [The Icarus Deception - Seth Godin](http://www.sethgodin.com/sg/books.asp)
 
 Articles
 ========
