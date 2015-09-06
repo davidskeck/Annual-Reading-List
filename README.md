@@ -10,7 +10,9 @@ Books
 - [ ] [Anything You Want - Derek Sivers](http://sivers.org/a)
 - [x] [Wild - Cheryl Strayed](http://www.cherylstrayed.com/wild_108676.htm)
 - [ ] [Don't Sweat the Small Stuff - Richard Carlson](http://dontsweat.com)
-- [ ] [A Guide to the Good Life - William Irvine](http://ecbiz172.inmotionhosting.com/~willia55/williambirvine.com/Guide.html)
+- [x] [A Guide to the Good Life - William Irvine](http://ecbiz172.inmotionhosting.com/~willia55/williambirvine.com/Guide.html)
+
+> "The joy the Stoics were interested in can best be described as a kind of objectless enjoyment—an enjoyment not of any particular thing but of all this. It is a delight in simply being able to participate in life. It is a profound realization that even though all this didn’t have to be possible, it is possible—wonderfully, magnificently possible."
 
 Articles
 ========
@@ -26,7 +28,7 @@ Articles
 
 - [x] [You Are Free, Like it or Not - David Cain](http://www.raptitude.com/2015/06/you-are-free-like-it-or-not/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Raptitudecom+%28Raptitude.com%29)
 
-> "In every instant, we are free to behave however we like, but we often act as though circumstances have reduced our options down to one or two ways to move forward. 
+> "In every instant, we are free to behave however we like, but we often act as though circumstances have reduced our options down to one or two ways to move forward.
 
 > This is bad faith: when we convince ourselves that we’re less free than we really are, so that we don’t have to feel responsible for what we ultimately make of ourselves. It really seems like you must get up at 7:00 every Monday, because constraints such as your job, your family’s schedule, and your body’s needs leave no other possibility. But it’s not true — you can set your alarm for any time, and are free to explore what’s different about life when you do."
 
