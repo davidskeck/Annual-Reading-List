@@ -34,11 +34,12 @@ Articles
 
 - [x] [I do not fear death - Roger Ebert](http://www.salon.com/2011/09/15/roger_ebert/)
 
-> "... "Kindness” covers all of my political beliefs. No need to spell them out. I believe that if, at the end, according to our abilities, we have done something to make others a little happier, and something to make ourselves a little happier, that is about the best we can do. To make others less happy is a crime. To make ourselves unhappy is where all crime starts. We must try to contribute joy to the world. That is true no matter what our problems, our health, our circumstances. We must try. I didn’t always know this and am happy I lived long enough to find it out."
+> "'Kindness' covers all of my political beliefs. No need to spell them out. I believe that if, at the end, according to our abilities, we have done something to make others a little happier, and something to make ourselves a little happier, that is about the best we can do. To make others less happy is a crime. To make ourselves unhappy is where all crime starts. We must try to contribute joy to the world. That is true no matter what our problems, our health, our circumstances. We must try. I didn’t always know this and am happy I lived long enough to find it out."
 
 - [x] [Showdown at the airport body scanner - Nathaniel Rich](http://opinionator.blogs.nytimes.com/2013/05/25/showdown-at-the-airport-body-scanner/?_r=0)
 
-> "I am offered the option of enduring my rubdown in private. I always refuse: Civil disobedience is worth nothing if it’s not done in public." ...
+> "I am offered the option of enduring my rubdown in private. I always refuse: Civil disobedience is worth nothing if it’s not done in public."
+...
 > "Airplane travel is disquieting, as is dealing with peevish federal officers, as is life. Even the slightest gesture of assertiveness can create the pleasing illusion that you control your fate."
 
 Why?
@@ -58,5 +59,5 @@ to add an annual reminder.
 
 Suggestions?
 ============
-[Email me](mailto:david@keck.net?subject=Annual Reading List suggestions) or
+[Email me](mailto:hello@davidskeck.com?subject=Annual Reading List suggestions) or
 send a pull request.
