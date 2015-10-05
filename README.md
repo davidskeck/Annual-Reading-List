@@ -57,7 +57,7 @@ and again until they become habitual to me.
 
 Join me!
 =======
-Click [here](http://davidskeck.com/index.php/annual-reading-list-subscriber-signup/))
+Click [here](http://davidskeck.com/index.php/annual-reading-list-subscriber-signup/)
 to sign up for an annual reminder. I'll only send one email per year, I promise.
 
 Suggestions?
