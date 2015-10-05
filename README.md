@@ -9,7 +9,10 @@ Books
 =====
 - [ ] [Anything You Want - Derek Sivers](http://sivers.org/a)
 - [x] [Wild - Cheryl Strayed](http://www.cherylstrayed.com/wild_108676.htm)
-- [ ] [Don't Sweat the Small Stuff - Richard Carlson](http://dontsweat.com)
+- [x] [Don't Sweat the Small Stuff - Richard Carlson](http://dontsweat.com)
+
+> "Life is not an emergency."
+
 - [x] [A Guide to the Good Life - William Irvine](http://ecbiz172.inmotionhosting.com/~willia55/williambirvine.com/Guide.html)
 
 > "The joy the Stoics were interested in can best be described as a kind of objectless enjoyment—an enjoyment not of any particular thing but of all this. It is a delight in simply being able to participate in life. It is a profound realization that even though all this didn’t have to be possible, it is possible—wonderfully, magnificently possible."
@@ -54,10 +57,9 @@ and again until they become habitual to me.
 
 Join me!
 =======
-Click [here](https://www.google.com/calendar/event?action=TEMPLATE&tmeid=XzZ0MTMyZDFwODhvNDZiOWw2Y3MzY2I5azY0cmppYmExNjExM2FiOXA4NG9rNGNpNTg5MWtjaDlpODRfMjAxNTAxMDFUMjAwMDAwWiBkc3RldmVua2Vja0Bt&tmsrc=dstevenkeck%40gmail.com)
-to add an annual reminder.
+Click [here](http://davidskeck.com/index.php/annual-reading-list-subscriber-signup/))
+to sign up for an annual reminder. I'll only send one email per year, I promise.
 
 Suggestions?
 ============
-[Email me](mailto:hello@davidskeck.com?subject=Annual Reading List suggestions) or
-send a pull request.
+Let me know on twitter [@davidskeck](https://twitter.com/davidskeck), [email me](mailto:hello@davidskeck.com?subject=Annual Reading List suggestions), or send a pull request.
