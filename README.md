@@ -1,7 +1,7 @@
 Annual Reading List
 ===================
 
-This is a list of books and articles to read every year. Titles will be switched out as they become stale to me. There will be up to 10 items on this list at a time. Previously listed works are [archived](/ARCHIVE.md).
+This is a list of books and articles to read every year. Titles will be switched out as they become stale to me. There will be up to 10 items on this list at a time. Previously listed works are [archived](/archive.md).
 
 - [x] = has been read this year.
 
@@ -9,10 +9,6 @@ Books
 =====
 - [ ] [Anything You Want - Derek Sivers](http://sivers.org/a)
 - [x] [Wild - Cheryl Strayed](http://www.cherylstrayed.com/wild_108676.htm)
-- [x] [Don't Sweat the Small Stuff - Richard Carlson](http://dontsweat.com)
-
-> "Life is not an emergency."
-
 - [x] [A Guide to the Good Life - William Irvine](http://ecbiz172.inmotionhosting.com/~willia55/williambirvine.com/Guide.html)
 
 > "The joy the Stoics were interested in can best be described as a kind of objectless enjoyment—an enjoyment not of any particular thing but of all this. It is a delight in simply being able to participate in life. It is a profound realization that even though all this didn’t have to be possible, it is possible—wonderfully, magnificently possible."
@@ -50,15 +46,11 @@ Why?
 
 > "As a single footstep will not make a path on the earth, so a single thought will not make a pathway in the mind. To make a deep physical path, we walk again and again. To make a deep mental path, we must think over and over the kind of thoughts we wish to dominate our lives." - Henry David Thoreau
 
-I feel like a lot of people read important ideas once and never get the chance to implement them.
-The purpose of this list is that ideas that are important to me get the chance to take hold
-in my mind. By reading these works annually, I will be introduced to these ideas again
-and again until they become habitual to me.
+I feel like a lot of people read important ideas once and never get the chance to implement them. The purpose of this list is that ideas that are important to me get the chance to take hold in my mind. By reading these works annually, I will be introduced to these ideas again and again until they become habitual to me.
 
 Join me!
 =======
-Click [here](http://davidskeck.com/index.php/annual-reading-list-subscriber-signup/)
-to sign up for an annual reminder. I'll only send one email per year, I promise.
+Click [here](http://davidskeck.com/index.php/annual-reading-list-subscriber-signup/) to sign up for an annual reminder. I'll only send one email per year, I promise.
 
 Suggestions?
 ============
