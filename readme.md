@@ -14,7 +14,6 @@ Books
 - [x] [Anything You Want - Derek Sivers](http://sivers.org/a)
 
 > "Just pay close attention to what excites you and what drains you. Pay close attention to when you're being the real you and when you're trying to impress an invisible jury."
->>>>>>> master
 
 - [x] [Wild - Cheryl Strayed](http://www.cherylstrayed.com/wild_108676.htm)
 - [x] [A Guide to the Good Life - William Irvine](http://ecbiz172.inmotionhosting.com/~willia55/williambirvine.com/Guide.html)
