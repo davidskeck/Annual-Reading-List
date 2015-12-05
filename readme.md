@@ -1,13 +1,20 @@
 Annual Reading List
 ===================
 
-This is a list of books and articles to read every year. Titles will be switched out as they become stale to me. There will be up to 10 items on this list at a time. Previously listed works are [archived](/archive.md).
+This is a list of books and articles to read every year. There will be up to 10 items on this list at a time. Titles will be switched out as they become stale to me. Previously listed works are [archived](/archive.md).
 
 - [x] = has been read this year.
 
 Books
 =====
-- [ ] [Anything You Want - Derek Sivers](http://sivers.org/a)
+- [x] [Anything You Want - Derek Sivers](http://sivers.org/a)
+
+> "It's too overwhelming to remember that at the end of every computer is a real person ... who is personally affected by what you say. Even if you remember it right now, will you remember it next time you're overwhelmed, or perhaps never forget it again?"
+
+> "How do you grade yourself? It's important to know in advance, to make sure you're staying focused on what's honestly important to you, instead of doing what others think you should."
+
+> "Just pay close attention to what excites you and what drains you. Pay close attention to when you're being the real you and when you're trying to impress an invisible jury."
+
 - [x] [Wild - Cheryl Strayed](http://www.cherylstrayed.com/wild_108676.htm)
 - [x] [A Guide to the Good Life - William Irvine](http://ecbiz172.inmotionhosting.com/~willia55/williambirvine.com/Guide.html)
 
@@ -21,15 +28,15 @@ Articles
 
 - [x] [Masters of love - Emily Esfahani Smith](http://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/)
 
-> "Throughout the day, partners would make requests for connection, what Gottman calls “bids.” For example, say that the husband is a bird enthusiast and notices a goldfinch fly across the yard. He might say to his wife, “Look at that beautiful bird outside!” He’s not just commenting on the bird here: he’s requesting a response from his wife—a sign of interest or support—hoping they’ll connect, however momentarily, over the bird.
+> "Throughout the day, partners would make requests for connection, what Gottman calls “bids.” For example, say that the husband is a bird enthusiast and notices a goldfinch fly across the yard. He might say to his wife, “Look at that beautiful bird outside!” He’s not just commenting on the bird here: he’s requesting a response from his wife—a sign of interest or support—hoping they’ll connect, however momentarily, over the bird."
 
-> The wife now has a choice. She can respond by either “turning toward” or “turning away” from her husband, as Gottman puts it. Though the bird-bid might seem minor and silly, it can actually reveal a lot about the health of the relationship. The husband thought the bird was important enough to bring it up in conversation and the question is whether his wife recognizes and respects that."
+> "The wife now has a choice. She can respond by either “turning toward” or “turning away” from her husband, as Gottman puts it. Though the bird-bid might seem minor and silly, it can actually reveal a lot about the health of the relationship. The husband thought the bird was important enough to bring it up in conversation and the question is whether his wife recognizes and respects that."
 
 - [x] [You Are Free, Like it or Not - David Cain](http://www.raptitude.com/2015/06/you-are-free-like-it-or-not/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Raptitudecom+%28Raptitude.com%29)
 
-> "In every instant, we are free to behave however we like, but we often act as though circumstances have reduced our options down to one or two ways to move forward.
+> "In every instant, we are free to behave however we like, but we often act as though circumstances have reduced our options down to one or two ways to move forward."
 
-> This is bad faith: when we convince ourselves that we’re less free than we really are, so that we don’t have to feel responsible for what we ultimately make of ourselves. It really seems like you must get up at 7:00 every Monday, because constraints such as your job, your family’s schedule, and your body’s needs leave no other possibility. But it’s not true — you can set your alarm for any time, and are free to explore what’s different about life when you do."
+> "This is bad faith: when we convince ourselves that we’re less free than we really are, so that we don’t have to feel responsible for what we ultimately make of ourselves. It really seems like you must get up at 7:00 every Monday, because constraints such as your job, your family’s schedule, and your body’s needs leave no other possibility. But it’s not true — you can set your alarm for any time, and are free to explore what’s different about life when you do."
 
 - [x] [I do not fear death - Roger Ebert](http://www.salon.com/2011/09/15/roger_ebert/)
 
