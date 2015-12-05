@@ -7,7 +7,6 @@ This is a list of books and articles to read every year. There will be up to 10 
 
 Books
 =====
-<<<<<<< HEAD
 - [x] [The Art of Non-Conformity - Chris Guillebeau](http://chrisguillebeau.com/books/)
 
 > "You don’t have to live your life the way others expect."
@@ -34,7 +33,7 @@ Articles
 
 > "The wife now has a choice. She can respond by either “turning toward” or “turning away” from her husband, as Gottman puts it. Though the bird-bid might seem minor and silly, it can actually reveal a lot about the health of the relationship. The husband thought the bird was important enough to bring it up in conversation and the question is whether his wife recognizes and respects that."
 
-- [x] [You Are Free, Like it or Not - David Cain](http://www.raptitude.com/2015/06/you-are-free-like-it-or-not/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Raptitudecom+%28Raptitude.com%29)
+- [x] [You Are Free, Like it or Not - David Cain](http://www.raptitude.com/2015/06/you-are-free-like-it-or-not/)
 
 > "In every instant, we are free to behave however we like, but we often act as though circumstances have reduced our options down to one or two ways to move forward."
 
@@ -42,7 +41,7 @@ Articles
 
 - [x] [The Secret to Connecting With People - David Cain](http://www.raptitude.com/2009/04/the-secret-to-connecting-with-people/)
 
-- [x] [Showdown at the airport body scanner - Nathaniel Rich](http://opinionator.blogs.nytimes.com/2013/05/25/showdown-at-the-airport-body-scanner/?_r=0)
+- [x] [Showdown at the airport body scanner - Nathaniel Rich](http://opinionator.blogs.nytimes.com/2013/05/25/showdown-at-the-airport-body-scanner/)
 
 > "I am offered the option of enduring my rubdown in private. I always refuse: Civil disobedience is worth nothing if it’s not done in public."
 ...
