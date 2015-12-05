@@ -8,6 +8,10 @@ This is a list of books and articles to read every year. Titles will be switched
 Books
 =====
 - [ ] [Anything You Want - Derek Sivers](http://sivers.org/a)
+- [x] [The Art of Non-Conformity - Chris Guillebeau](http://chrisguillebeau.com/books/)
+
+> "You don’t have to live your life the way others expect."
+
 - [x] [Wild - Cheryl Strayed](http://www.cherylstrayed.com/wild_108676.htm)
 - [x] [A Guide to the Good Life - William Irvine](http://ecbiz172.inmotionhosting.com/~willia55/williambirvine.com/Guide.html)
 
@@ -31,9 +35,7 @@ Articles
 
 > This is bad faith: when we convince ourselves that we’re less free than we really are, so that we don’t have to feel responsible for what we ultimately make of ourselves. It really seems like you must get up at 7:00 every Monday, because constraints such as your job, your family’s schedule, and your body’s needs leave no other possibility. But it’s not true — you can set your alarm for any time, and are free to explore what’s different about life when you do."
 
-- [x] [I do not fear death - Roger Ebert](http://www.salon.com/2011/09/15/roger_ebert/)
-
-> "'Kindness' covers all of my political beliefs. No need to spell them out. I believe that if, at the end, according to our abilities, we have done something to make others a little happier, and something to make ourselves a little happier, that is about the best we can do. To make others less happy is a crime. To make ourselves unhappy is where all crime starts. We must try to contribute joy to the world. That is true no matter what our problems, our health, our circumstances. We must try. I didn’t always know this and am happy I lived long enough to find it out."
+- [x] [The Secret to Connecting With People - David Cain](http://www.raptitude.com/2009/04/the-secret-to-connecting-with-people/)
 
 - [x] [Showdown at the airport body scanner - Nathaniel Rich](http://opinionator.blogs.nytimes.com/2013/05/25/showdown-at-the-airport-body-scanner/?_r=0)
 
