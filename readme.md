@@ -7,46 +7,61 @@ This is a list of books and articles to read every year. There will be up to 10 
 
 Books
 =====
-- [x] [Anything You Want - Derek Sivers](http://sivers.org/a)
+##### 1.
+- [ ] [The Art of Non-Conformity - Chris Guillebeau](http://chrisguillebeau.com/books/)
 
-> "It's too overwhelming to remember that at the end of every computer is a real person ... who is personally affected by what you say. Even if you remember it right now, will you remember it next time you're overwhelmed, or perhaps never forget it again?"
+> "You don’t have to live your life the way others expect."
 
-> "How do you grade yourself? It's important to know in advance, to make sure you're staying focused on what's honestly important to you, instead of doing what others think you should."
+##### 2.
+- [ ] [Wild - Cheryl Strayed](http://www.cherylstrayed.com/wild_108676.htm)
 
-> "Just pay close attention to what excites you and what drains you. Pay close attention to when you're being the real you and when you're trying to impress an invisible jury."
-
-- [x] [Wild - Cheryl Strayed](http://www.cherylstrayed.com/wild_108676.htm)
-- [x] [A Guide to the Good Life - William Irvine](http://ecbiz172.inmotionhosting.com/~willia55/williambirvine.com/Guide.html)
+##### 3.
+- [ ] [A Guide to the Good Life - William Irvine](http://ecbiz147.inmotionhosting.com/~n1stce12/williambirvine.com/Guide.html)
 
 > "The joy the Stoics were interested in can best be described as a kind of objectless enjoyment—an enjoyment not of any particular thing but of all this. It is a delight in simply being able to participate in life. It is a profound realization that even though all this didn’t have to be possible, it is possible—wonderfully, magnificently possible."
 
 Articles
 ========
-- [x] [Your lifestyle has already been designed - David Cain](http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
+##### 4.
+- [ ] [The frightening thing you learn when you quit the 9 to 5 - David Cain](http://www.raptitude.com/2014/04/quitting-the-9-to-5/)
 
-> "But the 8-hour workday is too profitable for big business, not because of the amount of work people get done in eight hours (the average office worker gets less than three hours of actual work done in 8 hours) but because it makes for such a purchase-happy public. Keeping free time scarce means people pay a lot more for convenience, gratification, and any other relief they can buy. It keeps them watching television, and its commercials. It keeps them unambitious outside of work."
+> "I’m convinced now that nobody gets away with settling on work they don’t care about. The nagging banality of having to do irrelevant work five-sevenths of your days is not something that will eventually leave you alone. Nobody ever makes peace with with the ringing of their alarm clock. We either make a calculated escape, or resign to becoming cynical, bored — and worst — dependent on constant entertainment for relief, because our work does little but drain us."
 
-- [x] [Masters of love - Emily Esfahani Smith](http://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/)
+##### 5.
+- [ ] [Masters of love - Emily Esfahani Smith](http://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/)
 
 > "Throughout the day, partners would make requests for connection, what Gottman calls “bids.” For example, say that the husband is a bird enthusiast and notices a goldfinch fly across the yard. He might say to his wife, “Look at that beautiful bird outside!” He’s not just commenting on the bird here: he’s requesting a response from his wife—a sign of interest or support—hoping they’ll connect, however momentarily, over the bird."
 
 > "The wife now has a choice. She can respond by either “turning toward” or “turning away” from her husband, as Gottman puts it. Though the bird-bid might seem minor and silly, it can actually reveal a lot about the health of the relationship. The husband thought the bird was important enough to bring it up in conversation and the question is whether his wife recognizes and respects that."
 
-- [x] [You Are Free, Like it or Not - David Cain](http://www.raptitude.com/2015/06/you-are-free-like-it-or-not/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Raptitudecom+%28Raptitude.com%29)
+##### 6.
+- [ ] [The Secret to Connecting With People - David Cain](http://www.raptitude.com/2009/04/the-secret-to-connecting-with-people/)
 
-> "In every instant, we are free to behave however we like, but we often act as though circumstances have reduced our options down to one or two ways to move forward."
+> "The habit of really listening to what someone is saying is a rare one.  And the people who do it can connect with anyone.  I’ve understood the value of being a good listener for a long time, but I didn’t really know what it meant to be one.  I know now: it means to cherish other people’s desire to express themselves more than your own desire to express yourself. Really, just completely defer your interests for as long as it takes for you to understand them."
 
-> "This is bad faith: when we convince ourselves that we’re less free than we really are, so that we don’t have to feel responsible for what we ultimately make of ourselves. It really seems like you must get up at 7:00 every Monday, because constraints such as your job, your family’s schedule, and your body’s needs leave no other possibility. But it’s not true — you can set your alarm for any time, and are free to explore what’s different about life when you do."
+##### 7.
+- [ ] [The Cook and the Chef: Musk’s Secret Sauce - Tim Urban](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
 
-- [x] [I do not fear death - Roger Ebert](http://www.salon.com/2011/09/15/roger_ebert/)
+> "The challenge with this last epiphany is to somehow figure out a way to lose respect for your own fear. That respect is in our wiring, and the only way to weaken it is by defying it and seeing, when nothing bad ends up happening, that most of the fear you’ve been feeling has just been a smoke and mirrors act. Doing something out of your comfort zone and having it turn out okay is an incredibly powerful experience, one that changes you—and each time you have that kind of experience, it chips away at your respect for your brain’s ingrained, irrational fears."
 
-> "'Kindness' covers all of my political beliefs. No need to spell them out. I believe that if, at the end, according to our abilities, we have done something to make others a little happier, and something to make ourselves a little happier, that is about the best we can do. To make others less happy is a crime. To make ourselves unhappy is where all crime starts. We must try to contribute joy to the world. That is true no matter what our problems, our health, our circumstances. We must try. I didn’t always know this and am happy I lived long enough to find it out."
+Other
+=====
 
-- [x] [Showdown at the airport body scanner - Nathaniel Rich](http://opinionator.blogs.nytimes.com/2013/05/25/showdown-at-the-airport-body-scanner/?_r=0)
+##### 8.
+- [ ] [Ira Glass on Storytelling - animated typography by David Shiyang Liu](https://vimeo.com/24715531)
 
-> "I am offered the option of enduring my rubdown in private. I always refuse: Civil disobedience is worth nothing if it’s not done in public."
-...
-> "Airplane travel is disquieting, as is dealing with peevish federal officers, as is life. Even the slightest gesture of assertiveness can create the pleasing illusion that you control your fate."
+> "Everybody who does interesting, creative work, went through a phase where they had really good taste but they could tell what they were making wasn't as good as they wanted it to be."
+
+##### 9.
+- [ ] [The Man in the Arena - Theodore Roosevelt - illustrated by Gavin Aung Than](http://zenpencils.com/comic/theodore-roosevelt-the-man-in-the-arena/)
+
+> "... if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat."
+
+##### 10.
+- [ ] [The Summer Day - Mary Oliver](http://www.loc.gov/poetry/180/133.html)
+
+> "Tell me, what is it you plan to do
+with your one wild and precious life?"
 
 Why?
 ====
