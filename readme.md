@@ -20,37 +20,48 @@ Books
 
 > "The joy the Stoics were interested in can best be described as a kind of objectless enjoyment—an enjoyment not of any particular thing but of all this. It is a delight in simply being able to participate in life. It is a profound realization that even though all this didn’t have to be possible, it is possible—wonderfully, magnificently possible."
 
-##### 4.
-- [ ] [The Alchemist - Paulo Coelho]()
-
-
-
 Articles
 ========
-##### 5.
+##### 4.
 - [ ] [The frightening thing you learn when you quit the 9 to 5 - David Cain](http://www.raptitude.com/2014/04/quitting-the-9-to-5/)
 
-> "Among other depersonalizing habits, resignation is perpetually being trained into us until we do finally make our escape from institutional life. At the beginning of your life, you must resign to what your parents allow you to do. Then you must resign to the tedium of twelve-plus years of public schooling, and from there you naturally believe you must resign to the banality and irrelevance of whatever work is required for you get the next paycheck."
+> "I’m convinced now that nobody gets away with settling on work they don’t care about. The nagging banality of having to do irrelevant work five-sevenths of your days is not something that will eventually leave you alone. Nobody ever makes peace with with the ringing of their alarm clock. We either make a calculated escape, or resign to becoming cynical, bored — and worst — dependent on constant entertainment for relief, because our work does little but drain us."
 
-##### 6.
+##### 5.
 - [ ] [Masters of love - Emily Esfahani Smith](http://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/)
 
 > "Throughout the day, partners would make requests for connection, what Gottman calls “bids.” For example, say that the husband is a bird enthusiast and notices a goldfinch fly across the yard. He might say to his wife, “Look at that beautiful bird outside!” He’s not just commenting on the bird here: he’s requesting a response from his wife—a sign of interest or support—hoping they’ll connect, however momentarily, over the bird."
 
 > "The wife now has a choice. She can respond by either “turning toward” or “turning away” from her husband, as Gottman puts it. Though the bird-bid might seem minor and silly, it can actually reveal a lot about the health of the relationship. The husband thought the bird was important enough to bring it up in conversation and the question is whether his wife recognizes and respects that."
 
-##### 7.
-- [ ] [You Are Free, Like it or Not - David Cain](http://www.raptitude.com/2015/06/you-are-free-like-it-or-not/)
-
-> "In every instant, we are free to behave however we like, but we often act as though circumstances have reduced our options down to one or two ways to move forward."
-
-> "This is bad faith: when we convince ourselves that we’re less free than we really are, so that we don’t have to feel responsible for what we ultimately make of ourselves. It really seems like you must get up at 7:00 every Monday, because constraints such as your job, your family’s schedule, and your body’s needs leave no other possibility. But it’s not true — you can set your alarm for any time, and are free to explore what’s different about life when you do."
-
-##### 8.
+##### 6.
 - [ ] [The Secret to Connecting With People - David Cain](http://www.raptitude.com/2009/04/the-secret-to-connecting-with-people/)
 
+> "The habit of really listening to what someone is saying is a rare one.  And the people who do it can connect with anyone.  I’ve understood the value of being a good listener for a long time, but I didn’t really know what it meant to be one.  I know now: it means to cherish other people’s desire to express themselves more than your own desire to express yourself. Really, just completely defer your interests for as long as it takes for you to understand them."
+
+##### 7.
+- [ ] [The Cook and the Chef: Musk’s Secret Sauce - Tim Urban](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
+
+> "The challenge with this last epiphany is to somehow figure out a way to lose respect for your own fear. That respect is in our wiring, and the only way to weaken it is by defying it and seeing, when nothing bad ends up happening, that most of the fear you’ve been feeling has just been a smoke and mirrors act. Doing something out of your comfort zone and having it turn out okay is an incredibly powerful experience, one that changes you—and each time you have that kind of experience, it chips away at your respect for your brain’s ingrained, irrational fears."
+
+Other
+=====
+
+##### 8.
+- [ ] [Ira Glass on Storytelling - animated typography by David Shiyang Liu](https://vimeo.com/24715531)
+
+"Everybody who does interesting, creative work, went through a phase where they had really good taste but they could tell what they were making wasn't as good as they wanted it to be."
+
 ##### 9.
-- [ ] [10 Reasons You Should Never Get a Job - Steve Pavlina](http://www.stevepavlina.com/blog/2006/07/10-reasons-you-should-never-get-a-job/)
+- [ ] [The Man in the Arena - Theodore Roosevelt - illustrated by Zen Pencils](http://zenpencils.com/comic/theodore-roosevelt-the-man-in-the-arena/)
+
+> "... if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat."
+
+##### 10.
+- [ ] [The Summer Day - Mary Oliver](http://www.loc.gov/poetry/180/133.html)
+
+> "Tell me, what is it you plan to do
+with your one wild and precious life?"
 
 Why?
 ====

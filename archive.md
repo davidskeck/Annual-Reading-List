@@ -14,6 +14,15 @@ Books
 
 Articles
 ========
+
+* [10 Reasons You Should Never Get a Job - Steve Pavlina](http://www.stevepavlina.com/blog/2006/07/10-reasons-you-should-never-get-a-job/)
+
+> "The alternative is to remain happily jobless for life and to generate income through other means.  Realize that you earn income by providing value — not time — so find a way to provide your best value to others, and charge a fair price for it.  One of the simplest and most accessible ways is to start your own business.  Whatever work you’d otherwise do via employment, find a way to provide that same value directly to those who will benefit most from it.  It takes a bit more time to get going, but your freedom is easily worth the initial investment of time and energy."
+
+* [You Are Free, Like it or Not - David Cain](http://www.raptitude.com/2015/06/you-are-free-like-it-or-not/)
+
+> "If we acknowledged all of our options, the obvious thing to do might be something intimidating. Once you’ve acknowledged that it isn’t actually impossible for you to quit smoking, then you have to quit smoking. When freedom is scary, we pretend it isn’t there."
+
  * [Your lifestyle has already been designed - David Cain](http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
 
 > "But the 8-hour workday is too profitable for big business, not because of the amount of work people get done in eight hours (the average office worker gets less than three hours of actual work done in 8 hours) but because it makes for such a purchase-happy public. Keeping free time scarce means people pay a lot more for convenience, gratification, and any other relief they can buy. It keeps them watching television, and its commercials. It keeps them unambitious outside of work."
