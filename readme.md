@@ -65,8 +65,8 @@ Click [here](http://davidskeck.com/index.php/annual-reading-list-subscriber-sign
 
 See also:
 ========
-* [Annual Creative Favorites]()
-* [Personal Creative Favorites]()
+* [Annual Favorites]()
+* [Personal Creative]()
 
 Suggestions?
 ============
