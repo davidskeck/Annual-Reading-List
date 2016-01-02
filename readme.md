@@ -63,11 +63,6 @@ Join me!
 =======
 Click [here](http://davidskeck.com/index.php/annual-reading-list-subscriber-signup/) to sign up for an annual reminder. I'll only send one email per year, I promise.
 
-See also:
-========
-* [Annual Favorites]()
-* [Personal Creative]()
-
 Suggestions?
 ============
 Let me know on twitter [@davidskeck](https://twitter.com/davidskeck), [email me](mailto:hello@davidskeck.com?subject=Annual Reading List suggestions), or send a pull request.
