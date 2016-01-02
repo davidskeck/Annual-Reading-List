@@ -50,10 +50,10 @@ Other
 ##### 8.
 - [ ] [Ira Glass on Storytelling - animated typography by David Shiyang Liu](https://vimeo.com/24715531)
 
-"Everybody who does interesting, creative work, went through a phase where they had really good taste but they could tell what they were making wasn't as good as they wanted it to be."
+> "Everybody who does interesting, creative work, went through a phase where they had really good taste but they could tell what they were making wasn't as good as they wanted it to be."
 
 ##### 9.
-- [ ] [The Man in the Arena - Theodore Roosevelt - illustrated by Zen Pencils](http://zenpencils.com/comic/theodore-roosevelt-the-man-in-the-arena/)
+- [ ] [The Man in the Arena - Theodore Roosevelt - illustrated by Gavin Aung Than](http://zenpencils.com/comic/theodore-roosevelt-the-man-in-the-arena/)
 
 > "... if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat."
 
