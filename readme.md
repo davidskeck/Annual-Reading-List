@@ -58,7 +58,7 @@ Other
 > "... if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat."
 
 ##### 10.
-- [ ] [The Summer Day - Mary Oliver](http://www.loc.gov/poetry/180/133.html)
+- [x] [The Summer Day - Mary Oliver](http://www.loc.gov/poetry/180/133.html)
 
 > "Tell me, what is it you plan to do
 with your one wild and precious life?"
@@ -72,7 +72,7 @@ I feel like a lot of people read important ideas once and never get the chance t
 
 Join me!
 =======
-Click [here](http://davidskeck.com/index.php/annual-reading-list-subscriber-signup/) to sign up for an annual reminder. I'll only send one email per year, I promise.
+Click [here](http://davidskeck.com/subscribe-to-the-annual-reading-list-newsletter/) to sign up for an annual reminder. I'll only send one email per year, I promise.
 
 Suggestions?
 ============
