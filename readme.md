@@ -74,6 +74,10 @@ Join me!
 =======
 Click [here](http://davidskeck.com/subscribe-to-the-annual-reading-list-newsletter/) to sign up for an annual reminder. I'll only send one email per year, I promise.
 
+More information
+================
+If you're intersted in the books I've read that didn't quite make the cut, take a look at the [books](https://github.com/davidskeck/books) I read this year and years past.
+
 Suggestions?
 ============
 Let me know on twitter [@davidskeck](https://twitter.com/davidskeck), [email me](mailto:hello@davidskeck.com?subject=Annual Reading List suggestions), or send a pull request.
