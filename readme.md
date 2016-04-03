@@ -76,7 +76,7 @@ Click [here](http://davidskeck.com/subscribe-to-the-annual-reading-list-newslett
 
 More information
 ================
-If you're intersted in the books I've read that didn't quite make the cut, take a look at the [books](https://github.com/davidskeck/books) I read this year and years past.
+If you're interested in the books that were read and considered, check out the list of [books](https://github.com/davidskeck/books) I have read this year.
 
 Suggestions?
 ============
