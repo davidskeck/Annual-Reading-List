@@ -8,7 +8,7 @@ This is a list of books and articles to read every year. There will be up to 10 
 Books
 =====
 ##### 1.
-- [ ] [The Art of Non-Conformity - Chris Guillebeau](http://chrisguillebeau.com/books/)
+- [x] [The Art of Non-Conformity - Chris Guillebeau](http://chrisguillebeau.com/books/)
 
 > "You don’t have to live your life the way others expect."
 
@@ -40,7 +40,7 @@ Articles
 > "The habit of really listening to what someone is saying is a rare one.  And the people who do it can connect with anyone.  I’ve understood the value of being a good listener for a long time, but I didn’t really know what it meant to be one.  I know now: it means to cherish other people’s desire to express themselves more than your own desire to express yourself. Really, just completely defer your interests for as long as it takes for you to understand them."
 
 ##### 7.
-- [ ] [The Cook and the Chef: Musk’s Secret Sauce - Tim Urban](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
+- [x] [The Cook and the Chef: Musk’s Secret Sauce - Tim Urban](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
 
 > "The challenge with this last epiphany is to somehow figure out a way to lose respect for your own fear. That respect is in our wiring, and the only way to weaken it is by defying it and seeing, when nothing bad ends up happening, that most of the fear you’ve been feeling has just been a smoke and mirrors act. Doing something out of your comfort zone and having it turn out okay is an incredibly powerful experience, one that changes you—and each time you have that kind of experience, it chips away at your respect for your brain’s ingrained, irrational fears."
 
@@ -48,7 +48,7 @@ Other
 =====
 
 ##### 8.
-- [ ] [Ira Glass on Storytelling - animated typography by David Shiyang Liu](https://vimeo.com/24715531)
+- [x] [Ira Glass on Storytelling - animated typography by David Shiyang Liu](https://vimeo.com/24715531)
 
 > "Everybody who does interesting, creative work, went through a phase where they had really good taste but they could tell what they were making wasn't as good as they wanted it to be."
 
