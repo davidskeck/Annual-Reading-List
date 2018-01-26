@@ -80,4 +80,4 @@ If you're interested in the books that were read and considered, check out the l
 
 Suggestions?
 ============
-Let me know on twitter [@davidskeck](https://twitter.com/davidskeck), [email me](mailto:hello@davidskeck.com?subject=Annual Reading List suggestions), or send a pull request.
+Let me know on twitter [@davidskeck](https://twitter.com/davidskeck), [email me](mailto:hello@davidskeck.com), or send a pull request.
