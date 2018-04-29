@@ -3,25 +3,44 @@ Annual Reading List - Archive
 
 Books
 =====
+* [The Obstacle is the Way - Ryan Holiday](https://ryanholiday.net/welcome-to-the-obstacle-is-the-way-the-timeless-art-of-turning-trials-into-triumph/)
+
 * [Anything You Want - Derek Sivers](http://sivers.org/a)
 
 > "Just pay close attention to what excites you and what drains you. Pay close attention to when you're being the real you and when you're trying to impress an invisible jury."
 
+* [The Art of Non-Conformity - Chris Guillebeau](http://chrisguillebeau.com/books/)
+
+> "You don’t have to live your life the way others expect."
+
 * [Don't Sweat the Small Stuff - Richard Carlson](http://dontsweat.com)
 * [Self-Reliance - Ralph Waldo Emerson](http://www.emersoncentral.com/selfreliance.htm)
-* [Apprenticeship Patterns - Dave Hoover](http://chimera.labs.oreilly.com/books/1234000001813/index.html)
 * [The Icarus Deception - Seth Godin](http://www.sethgodin.com/sg/books.asp)
 
 Articles
 ========
 
+* [The Cook and the Chef: Musk’s Secret Sauce - Tim Urban](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
+
+> The challenge with this last epiphany is to somehow figure out a way to lose respect for your own fear. That respect is in our wiring, and the only way to weaken it is by defying it and seeing, when nothing bad ends up happening, that most of the fear you’ve been feeling has just been a smoke and mirrors act. Doing something out of your comfort zone and having it turn out okay is an incredibly powerful experience, one that changes you—and each time you have that kind of experience, it chips away at your respect for your brain’s ingrained, irrational fears.
+
+* [Four Things Procrastinators Need to Learn - David Cain](http://www.raptitude.com/2018/04/four-things-procrastinators-need-to-learn/)
+
+> Almost always, the most predictable, most damaging, and most easily avoidable dangers come from stalling. The longer you spend doing a nervous little warm-up dance, the taller the diving board grows.
+
+* [The frightening thing you learn when you quit the 9 to 5 - David Cain](http://www.raptitude.com/2014/04/quitting-the-9-to-5/)
+
+> "I’m convinced now that nobody gets away with settling on work they don’t care about. The nagging banality of having to do irrelevant work five-sevenths of your days is not something that will eventually leave you alone. Nobody ever makes peace with with the ringing of their alarm clock. We either make a calculated escape, or resign to becoming cynical, bored — and worst — dependent on constant entertainment for relief, because our work does little but drain us."
+
+* [Masters of love - Emily Esfahani Smith](http://www.theatlantic.com/health/archive/2014/06/happily-ever-after/372573/)
+
+> "Throughout the day, partners would make requests for connection, what Gottman calls “bids.” For example, say that the husband is a bird enthusiast and notices a goldfinch fly across the yard. He might say to his wife, “Look at that beautiful bird outside!” He’s not just commenting on the bird here: he’s requesting a response from his wife—a sign of interest or support—hoping they’ll connect, however momentarily, over the bird."
+
+> "The wife now has a choice. She can respond by either “turning toward” or “turning away” from her husband, as Gottman puts it. Though the bird-bid might seem minor and silly, it can actually reveal a lot about the health of the relationship. The husband thought the bird was important enough to bring it up in conversation and the question is whether his wife recognizes and respects that."
+
 * [10 Reasons You Should Never Get a Job - Steve Pavlina](http://www.stevepavlina.com/blog/2006/07/10-reasons-you-should-never-get-a-job/)
 
 > "The alternative is to remain happily jobless for life and to generate income through other means.  Realize that you earn income by providing value — not time — so find a way to provide your best value to others, and charge a fair price for it.  One of the simplest and most accessible ways is to start your own business.  Whatever work you’d otherwise do via employment, find a way to provide that same value directly to those who will benefit most from it.  It takes a bit more time to get going, but your freedom is easily worth the initial investment of time and energy."
-
-* [You Are Free, Like it or Not - David Cain](http://www.raptitude.com/2015/06/you-are-free-like-it-or-not/)
-
-> "If we acknowledged all of our options, the obvious thing to do might be something intimidating. Once you’ve acknowledged that it isn’t actually impossible for you to quit smoking, then you have to quit smoking. When freedom is scary, we pretend it isn’t there."
 
  * [Your lifestyle has already been designed - David Cain](http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
 
@@ -45,6 +64,16 @@ Articles
 * [The slow death of purposeless walking - Finlo Rohrer](http://www.bbc.com/news/magazine-27186709)
 
 
+Other
+========
+
+* [The Man in the Arena - Theodore Roosevelt - illustrated by Gavin Aung Than](http://zenpencils.com/comic/theodore-roosevelt-the-man-in-the-arena/)
+
+> "... if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat."
+
+* [Ira Glass on Storytelling - animated typography by David Shiyang Liu](https://vimeo.com/24715531)
+
+> "Everybody who does interesting, creative work, went through a phase where they had really good taste but they could tell what they were making wasn't as good as they wanted it to be."
 
 ##### No longer available:
 * [It's February. The Tuesday of the year. - Francis Pedraza](https://medium.com/@francispedraza/its-february-the-tuesday-of-the-year-710642eac8a2)
