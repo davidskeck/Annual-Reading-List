@@ -24,9 +24,11 @@ Articles
 
 > The challenge with this last epiphany is to somehow figure out a way to lose respect for your own fear. That respect is in our wiring, and the only way to weaken it is by defying it and seeing, when nothing bad ends up happening, that most of the fear you’ve been feeling has just been a smoke and mirrors act. Doing something out of your comfort zone and having it turn out okay is an incredibly powerful experience, one that changes you—and each time you have that kind of experience, it chips away at your respect for your brain’s ingrained, irrational fears.
 
-* [Four Things Procrastinators Need to Learn - David Cain](http://www.raptitude.com/2018/04/four-things-procrastinators-need-to-learn/)
+* [Productivity - Sam Altman](https://blog.samaltman.com/productivity)
 
-> Almost always, the most predictable, most damaging, and most easily avoidable dangers come from stalling. The longer you spend doing a nervous little warm-up dance, the taller the diving board grows.
+> It doesn’t matter how fast you move if it’s in a worthless direction.  Picking the right thing to work on is the most important element of productivity and usually almost ignored.  So think about it more!  Independent thought is hard but it’s something you can get better at with practice.  
+
+> The most impressive people I know have strong beliefs about the world, which is rare in the general population.  If you find yourself always agreeing with whomever you last spoke with, that’s bad.  You will of course be wrong sometimes, but develop the confidence to stick with your convictions.  It will let you be courageous when you’re right about something important that most people don’t see.
 
 * [The frightening thing you learn when you quit the 9 to 5 - David Cain](http://www.raptitude.com/2014/04/quitting-the-9-to-5/)
 

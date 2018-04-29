@@ -27,16 +27,16 @@ Articles
 ========
 
 ##### 4.
-- [x] [How to Pick a Career (That Actually Fits You - Tim Urban](https://waitbutwhy.com)
+- [x] [How to Pick a Career (That Actually Fits You) - Tim Urban](https://waitbutwhy.com)
 
 > It seems like facing death makes all of those voices in your head who aren’t actually you melt away, leaving your little authentic self standing there all alone, in reflection. I think end-of-life regrets may simply be your authentic self thinking about the parts of your life you never got to live—the parts of you that someone else kicked down into your subconscious.
 
 ##### 5.
-- [x] [Productivity - Sam Altman](https://blog.samaltman.com/productivity)
+- [x] [Four Things Procrastinators Need to Learn - David Cain](http://www.raptitude.com/2018/04/four-things-procrastinators-need-to-learn/)
 
-> It doesn’t matter how fast you move if it’s in a worthless direction.  Picking the right thing to work on is the most important element of productivity and usually almost ignored.  So think about it more!  Independent thought is hard but it’s something you can get better at with practice.  
+>Finish something every time you sit down to work. Get to the end of a chapter, a section, a definite stage of some sort.
 
-> The most impressive people I know have strong beliefs about the world, which is rare in the general population.  If you find yourself always agreeing with whomever you last spoke with, that’s bad.  You will of course be wrong sometimes, but develop the confidence to stick with your convictions.  It will let you be courageous when you’re right about something important that most people don’t see.
+> If you can’t answer the question “What are you trying to finish right now?” then you’re probably making the task bigger, rather than moving towards its end.
 
 ##### 6.
 - [x] [Money and Confidence are Interchangeable - Mr. Money Mustache](http://www.mrmoneymustache.com/2018/03/09/money-and-confidence-are-interchangeable/)
