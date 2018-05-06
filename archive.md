@@ -3,6 +3,10 @@ Annual Reading List - Archive
 
 Books
 =====
+* [Wild - Cheryl Strayed](http://www.cherylstrayed.com/wild_108676.htm)
+
+> To believe that I didn’t need to reach with my bare hands anymore. To know that seeing the fish beneath the surface of the water was enough. That it was everything. It was my life--like all lives, mysterious and irrevocable and sacred. So very close, so very present, so very belonging to me. How wild it was, to let it be.
+
 * [The Obstacle is the Way - Ryan Holiday](https://ryanholiday.net/welcome-to-the-obstacle-is-the-way-the-timeless-art-of-turning-trials-into-triumph/)
 
 * [Anything You Want - Derek Sivers](http://sivers.org/a)

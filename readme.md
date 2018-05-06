@@ -9,14 +9,14 @@ Books
 =====
 
 ##### 1.
+- [ ] [The Willpower Instinct - Kelly McGonigal](https://www.goodreads.com/book/show/10865206-the-willpower-instinct)
+
+> I believe that the best way to improve your self-control is to see how and why you *lose* control. Knowing how you are likely to give in doesn't, as many people fear, set yourself up for failure. It allows you to support yourself and avoid the traps that lead to willpower failures.
+
+##### 2.
 - [ ] [The Subtle Art of Not Giving a Fuck - Mark Manson](https://markmanson.net/books/subtle-art)
 
 > You too are going to die, and that's because you too were fortunate enough to have lived. You may not feel this, but go stand on a cliff sometime, and maybe you will.
-
-##### 2.
-- [ ] [Wild - Cheryl Strayed](http://www.cherylstrayed.com/wild_108676.htm)
-
-> To believe that I didn’t need to reach with my bare hands anymore. To know that seeing the fish beneath the surface of the water was enough. That it was everything. It was my life—like all lives, mysterious and irrevocable and sacred. So very close, so very present, so very belonging to me. How wild it was, to let it be.
 
 ##### 3.
 - [ ] [A Guide to the Good Life - William Irvine](http://ecbiz147.inmotionhosting.com/~n1stce12/williambirvine.com/Guide.html)
