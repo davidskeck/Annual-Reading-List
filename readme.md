@@ -82,7 +82,7 @@ I feel like a lot of people read important ideas once and never get the chance t
 
 Join me!
 =======
-Click [here](http://davidskeck.github.io/arl_signup) to sign up for an annual reminder. I'll only send one email per year, I promise.
+Click [here](https://www.easilyfascinated.com/arl_signup) to sign up for an annual reminder. I'll only send one email per year, I promise.
 
 Suggestions?
 ============
