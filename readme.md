@@ -27,7 +27,7 @@ Articles
 ========
 
 ##### 4.
-- [x] [How to Pick a Career (That Actually Fits You) - Tim Urban](https://waitbutwhy.com)
+- [x] [How to Pick a Career (That Actually Fits You) - Tim Urban](https://waitbutwhy.com/2018/04/picking-career.html)
 
 > It seems like facing death makes all of those voices in your head who aren’t actually you melt away, leaving your little authentic self standing there all alone, in reflection. I think end-of-life regrets may simply be your authentic self thinking about the parts of your life you never got to live—the parts of you that someone else kicked down into your subconscious.
 
