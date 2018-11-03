@@ -27,7 +27,7 @@ Articles
 ========
 
 ##### 4.
-- [x] [How to Pick a Career (That Actually Fits You) - Tim Urban](https://waitbutwhy.com)
+- [x] [How to Pick a Career (That Actually Fits You) - Tim Urban](https://waitbutwhy.com/2018/04/picking-career.html)
 
 > It seems like facing death makes all of those voices in your head who aren’t actually you melt away, leaving your little authentic self standing there all alone, in reflection. I think end-of-life regrets may simply be your authentic self thinking about the parts of your life you never got to live—the parts of you that someone else kicked down into your subconscious.
 
@@ -82,7 +82,7 @@ I feel like a lot of people read important ideas once and never get the chance t
 
 Join me!
 =======
-Click [here](http://davidskeck.github.io/arl_signup) to sign up for an annual reminder. I'll only send one email per year, I promise.
+Click [here](https://www.easilyfascinated.com/arl_signup) to sign up for an annual reminder. I'll only send one email per year, I promise.
 
 Suggestions?
 ============
