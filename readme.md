@@ -19,7 +19,7 @@ Books
 > You too are going to die, and that's because you too were fortunate enough to have lived. You may not feel this, but go stand on a cliff sometime, and maybe you will.
 
 ##### 3.
-- [ ] [A Guide to the Good Life - William Irvine](http://ecbiz147.inmotionhosting.com/~n1stce12/williambirvine.com/Guide.html)
+- [x] [A Guide to the Good Life - William Irvine](http://ecbiz147.inmotionhosting.com/~n1stce12/williambirvine.com/Guide.html)
 
 > The joy the Stoics were interested in can best be described as a kind of objectless enjoyment—an enjoyment not of any particular thing but of all this. It is a delight in simply being able to participate in life. It is a profound realization that even though all this didn’t have to be possible, it is possible—wonderfully, magnificently possible.
 
