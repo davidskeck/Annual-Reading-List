@@ -19,7 +19,7 @@ Books
 > You too are going to die, and that's because you too were fortunate enough to have lived. You may not feel this, but go stand on a cliff sometime, and maybe you will.
 
 ##### 3.
-- [ ] [A Guide to the Good Life - William Irvine](http://ecbiz147.inmotionhosting.com/~n1stce12/williambirvine.com/Guide.html)
+- [x] [A Guide to the Good Life - William Irvine](http://ecbiz147.inmotionhosting.com/~n1stce12/williambirvine.com/Guide.html)
 
 > The joy the Stoics were interested in can best be described as a kind of objectless enjoyment—an enjoyment not of any particular thing but of all this. It is a delight in simply being able to participate in life. It is a profound realization that even though all this didn’t have to be possible, it is possible—wonderfully, magnificently possible.
 
@@ -51,7 +51,7 @@ This is essentially the reason for this Annual Reading List to exist. This is wh
 > Bringing a truth to mind repeatedly gives it an enduring, three-dimensional existence in your head, by reaching you in every mood and every context, in every season, both at times when you’re enthusiastic about it, and when you’re tired of hearing it.
 
 ##### 8.
-- [ ] [The Secret to Connecting With People - David Cain](http://www.raptitude.com/2009/04/the-secret-to-connecting-with-people/)
+- [x] [The Secret to Connecting With People - David Cain](http://www.raptitude.com/2009/04/the-secret-to-connecting-with-people/)
 
 > The habit of really listening to what someone is saying is a rare one.  And the people who do it can connect with anyone.  I’ve understood the value of being a good listener for a long time, but I didn’t really know what it meant to be one.  I know now: it means to cherish other people’s desire to express themselves more than your own desire to express yourself. Really, just completely defer your interests for as long as it takes for you to understand them.
 
