@@ -14,7 +14,7 @@ Books
 > I believe that the best way to improve your self-control is to see how and why you *lose* control. Knowing how you are likely to give in doesn't, as many people fear, set yourself up for failure. It allows you to support yourself and avoid the traps that lead to willpower failures.
 
 ##### 2.
-- [ ] [The Subtle Art of Not Giving a Fuck - Mark Manson](https://markmanson.net/books/subtle-art)
+- [x] [The Subtle Art of Not Giving a Fuck - Mark Manson](https://markmanson.net/books/subtle-art)
 
 > You too are going to die, and that's because you too were fortunate enough to have lived. You may not feel this, but go stand on a cliff sometime, and maybe you will.
 
