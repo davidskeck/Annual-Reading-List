@@ -65,7 +65,7 @@ This is essentially the reason for this Annual Reading List to exist. This is wh
 Other
 =====
 ##### 10.
-- [ ] [The Summer Day - Mary Oliver](http://www.loc.gov/poetry/180/133.html)
+- [x] [The Summer Day - Mary Oliver](http://www.loc.gov/poetry/180/133.html)
 
 > I do know how to pay attention, how to fall down  
 into the grass, how to kneel down in the grass,  
