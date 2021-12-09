@@ -24,6 +24,12 @@ Books
 Articles
 ========
 
+- [x] [Four Things Procrastinators Need to Learn - David Cain](http://www.raptitude.com/2018/04/four-things-procrastinators-need-to-learn/)
+
+>Finish something every time you sit down to work. Get to the end of a chapter, a section, a definite stage of some sort.
+
+> If you can’t answer the question “What are you trying to finish right now?” then you’re probably making the task bigger, rather than moving towards its end.
+
 * [The Cook and the Chef: Musk’s Secret Sauce - Tim Urban](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
 
 > The challenge with this last epiphany is to somehow figure out a way to lose respect for your own fear. That respect is in our wiring, and the only way to weaken it is by defying it and seeing, when nothing bad ends up happening, that most of the fear you’ve been feeling has just been a smoke and mirrors act. Doing something out of your comfort zone and having it turn out okay is an incredibly powerful experience, one that changes you—and each time you have that kind of experience, it chips away at your respect for your brain’s ingrained, irrational fears.
