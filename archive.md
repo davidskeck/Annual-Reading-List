@@ -24,7 +24,7 @@ Books
 Articles
 ========
 
-- [x] [Four Things Procrastinators Need to Learn - David Cain](http://www.raptitude.com/2018/04/four-things-procrastinators-need-to-learn/)
+- [Four Things Procrastinators Need to Learn - David Cain](http://www.raptitude.com/2018/04/four-things-procrastinators-need-to-learn/)
 
 >Finish something every time you sit down to work. Get to the end of a chapter, a section, a definite stage of some sort.
 
