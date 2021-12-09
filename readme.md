@@ -34,7 +34,7 @@ Articles
 ##### 5.
 - [ ] [Being Mortal - Atul Gawande](http://atulgawande.com/book/being-mortal/)
 
->The late, great philosopher Ronald Dworkin recognized that there is a second, more compelling sense of autonomy. Whatever the limits and travails we face, we want to retain the autonomy--the freedom--to be the authors of our lives. This is the very marrow of being human. As Dworkin wrote in his remarkable 1986 essay on the subject, "The value of autonomy... lies in the scheme of responsibility it creates: autonomy makes each of us responsible for shaping his own life according to some coherent and distinctive sense of character, conviction, and interest. It allows us to lead our own lives rather than be led along them, so that each of us can be, to the extent such a scheme of rights can make this possible, what he has made himself." 
+>The late, great philosopher Ronald Dworkin recognized that there is a second, more compelling sense of autonomy. Whatever the limits and travails we face, we want to retain the autonomy—the freedom—to be the authors of our lives. This is the very marrow of being human. As Dworkin wrote in his remarkable 1986 essay on the subject, "The value of autonomy... lies in the scheme of responsibility it creates: autonomy makes each of us responsible for shaping his own life according to some coherent and distinctive sense of character, conviction, and interest. It allows us to lead our own lives rather than be led along them, so that each of us can be, to the extent such a scheme of rights can make this possible, what he has made himself." 
 
 ##### 6.
 - [x] [Money and Confidence are Interchangeable - Mr. Money Mustache](http://www.mrmoneymustache.com/2018/03/09/money-and-confidence-are-interchangeable/)
