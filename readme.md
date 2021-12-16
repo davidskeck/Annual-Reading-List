@@ -14,11 +14,18 @@ Books
 > I believe that the best way to improve your self-control is to see how and why you *lose* control. Knowing how you are likely to give in doesn't, as many people fear, set yourself up for failure. It allows you to support yourself and avoid the traps that lead to willpower failures.
 
 ##### 2.
+- [x] [Being Mortal - Atul Gawande](http://atulgawande.com/book/being-mortal/)
+
+> The late, great philosopher Ronald Dworkin recognized that there is a second, more compelling sense of autonomy. Whatever the limits and travails we face, we want to retain the autonomy—the freedom—to be the authors of our lives. This is the very marrow of being human. As Dworkin wrote in his remarkable 1986 essay on the subject, "The value of autonomy... lies in the scheme of responsibility it creates: autonomy makes each of us responsible for shaping his own life according to some coherent and distinctive sense of character, conviction, and interest. It allows us to lead our own lives rather than be led along them, so that each of us can be, to the extent such a scheme of rights can make this possible, what he has made himself." 
+
+> Whenever serious sickness or injury strikes and your body or mind breaks down, the vital questions are the same: What is your understanding of the situation and its potential outcomes? What are your fears and what are your hopes? What are the trade-offs you are willing to make and not willing to make? And what is the course of action that best serves this understanding?
+
+##### 3.
 - [x] [The Subtle Art of Not Giving a Fuck - Mark Manson](https://markmanson.net/books/subtle-art)
 
 > You too are going to die, and that's because you too were fortunate enough to have lived. You may not feel this, but go stand on a cliff sometime, and maybe you will.
 
-##### 3.
+##### 4.
 - [x] [A Guide to the Good Life - William Irvine](http://ecbiz147.inmotionhosting.com/~n1stce12/williambirvine.com/Guide.html)
 
 > The joy the Stoics were interested in can best be described as a kind of objectless enjoyment—an enjoyment not of any particular thing but of all this. It is a delight in simply being able to participate in life. It is a profound realization that even though all this didn’t have to be possible, it is possible—wonderfully, magnificently possible.
@@ -26,15 +33,10 @@ Books
 Articles
 ========
 
-##### 4.
+##### 5.
 - [x] [How to Pick a Career (That Actually Fits You) - Tim Urban](https://waitbutwhy.com/2018/04/picking-career.html)
 
 > It seems like facing death makes all of those voices in your head who aren’t actually you melt away, leaving your little authentic self standing there all alone, in reflection. I think end-of-life regrets may simply be your authentic self thinking about the parts of your life you never got to live—the parts of you that someone else kicked down into your subconscious.
-
-##### 5.
-- [ ] [Being Mortal - Atul Gawande](http://atulgawande.com/book/being-mortal/)
-
->The late, great philosopher Ronald Dworkin recognized that there is a second, more compelling sense of autonomy. Whatever the limits and travails we face, we want to retain the autonomy—the freedom—to be the authors of our lives. This is the very marrow of being human. As Dworkin wrote in his remarkable 1986 essay on the subject, "The value of autonomy... lies in the scheme of responsibility it creates: autonomy makes each of us responsible for shaping his own life according to some coherent and distinctive sense of character, conviction, and interest. It allows us to lead our own lives rather than be led along them, so that each of us can be, to the extent such a scheme of rights can make this possible, what he has made himself." 
 
 ##### 6.
 - [x] [Money and Confidence are Interchangeable - Mr. Money Mustache](http://www.mrmoneymustache.com/2018/03/09/money-and-confidence-are-interchangeable/)
