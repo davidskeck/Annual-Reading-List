@@ -86,4 +86,4 @@ Fork this repo and make your own list of titles to review every year! I'd love t
 
 Suggestions?
 ============
-Let me know on twitter [@davidskeck](https://twitter.com/davidskeck), [email me](mailto:hello@davidskeck.com), or open a pull request.
+Let me know on Mastodon [@davidskeck](https://mastodon.online/@davidskeck), [email me](mailto:hello@davidskeck.com), or open a pull request.
